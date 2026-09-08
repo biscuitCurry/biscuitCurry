@@ -9,7 +9,6 @@
 - 🛠️ Currently building **ASRAMAku**, a hostel outing management PWA on Django, MySQL, & Raspberry Pi
 - 🏆 **Dean's List** (3-Semester Streak) | *Anugerah Pelajar Amali Cemerlang* recipient
 - ⚡ Hardware tinkerer: From ESP32/Arduino microcontrollers to custom Android ROMs & TWRP
-- 🎧 Listening to shoegaze and phonk while coding
 
 ---
 
@@ -37,7 +36,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biscuitCurry&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biscuitCurry&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=biscuitCurry&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
